@@ -1,0 +1,58 @@
+body {
+  background: #fff;
+  color: #222;
+  font-size: small;
+  font-family: arial, sans-serif;
+}
+
+header {
+  position: absolute;
+  top: 0;
+}
+
+#logo {
+  padding-top: 109px;
+}
+
+header, nav, body, footer {
+  width: 100%;
+}
+
+.nav-item {
+  padding: 5px;
+  display: inline-block;
+  color: #000;
+}
+
+#nav-menu {
+  float: right;
+}
+
+a {
+  text-decoration: none;
+}
+
+footer {
+  background: #f2f2f2;
+  border-top: 1px solid #e4e4e4;
+  line-height: 40px;
+  min-width: 980px;
+  position: absolute;
+  bottom: 0;
+}
+
+#left {
+  float: left;
+}
+
+#right {
+  float: right;
+  margin-right: 30px;
+}
+
+.footer-item {
+  color: #666;
+  padding-left: 27px;
+}
+
+
